@@ -21,7 +21,7 @@
     以下是w3c提供的performance.timing各阶段api图
 
 ![timestamp-diagram](/timestamp-diagram.svg)
-
+```
     navigationStart: 当前浏览器窗口的前一个网页关闭，发生unload事件时的时间戳。如果没有前一个网页，就等于fetchStart
     unloadEventStart: 前一个网页（与当前页面同域）unload 的时间戳，如果无前一个网页 unload 或者前一个网页与当前页面不同域，则值为 0
     nuloadEventEnd: 和 unloadEventStart 相对应，返回前一个网页 unload 事件绑定的回调函数执行完毕的时间戳
@@ -56,6 +56,7 @@
     9. load时间：loadEventEnd - loadEventStart
     10. 整个页面加载时间：loadEventEnd - navigationStart
     11. 白屏时间：responseStart - navigationStart
+```
 
 #### Performance.navigation
     PerformanceNavigation接口呈现了如何导航到当前文档的信息。PerformanceNavigation有两个属性，一个是type，表示如何导航到当前页面的，主要有4个值。
