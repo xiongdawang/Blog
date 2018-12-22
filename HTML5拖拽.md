@@ -142,7 +142,7 @@ $("#drag").on("drag", function(e) {
 在Firefox中，被拖动元素元素添加属性draggable="true"，并不能拖拽。因为火狐要求被拖动元素必须包含数据，如下所示：
 ```javascript
 xx.ondragstart = function(e) {
-    e.dataTransfer.setData("text","xxx");
+    e.dataTransfer.setData("text","xxx"); // Firefox必须要给dataTransfer设置数据，才能拖拽
     // do something
 }
 ```
