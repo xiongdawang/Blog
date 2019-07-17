@@ -234,3 +234,10 @@ var foo = function() {
     };
     return foo();
 }
+
+// 扁平化
+function flatten(arr) {
+    return arr.reduce(function(prev, next){
+        return prev.concat(Array.isArray(next) ? flatten(next) : next)
+    }, [])
+}
