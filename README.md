@@ -13,5 +13,6 @@
 
 [[技术翻译]9个可以让你在2020年成为前端专家的项目](https://juejin.im/post/5db71290f265da4d1c6999a0#heading-7)
 
+[从浏览器多进程到JS单线程，JS运行机制最全面的一次梳理](https://www.jianshu.com/p/65d3aed95306)
 
 jianli: https://www.jianshu.com/p/a3802f6f4499
