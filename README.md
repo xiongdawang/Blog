@@ -16,3 +16,13 @@
 [从浏览器多进程到JS单线程，JS运行机制最全面的一次梳理](https://www.jianshu.com/p/65d3aed95306)
 
 jianli: https://www.jianshu.com/p/a3802f6f4499
+
+## 路由
+
+[理解浏览器历史记录（2）-hashchange、pushState](https://www.cnblogs.com/lyzg/archive/2016/10/21/5960609.html)
+
+[前端路由原理解析和实现](https://juejin.im/post/5cd8d609e51d456e7b372155)
+
+[前端路由hash、history原理及简单的实践下](https://www.cnblogs.com/tugenhua0707/p/10859214.html)
+
+[彻底搞懂路由跳转：location 和 history 接口](https://segmentfault.com/a/1190000014120456)
