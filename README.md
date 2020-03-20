@@ -26,3 +26,19 @@ jianli: https://www.jianshu.com/p/a3802f6f4499
 [前端路由hash、history原理及简单的实践下](https://www.cnblogs.com/tugenhua0707/p/10859214.html)
 
 [彻底搞懂路由跳转：location 和 history 接口](https://segmentfault.com/a/1190000014120456)
+
+## 网络请求
+
+### REST
+
+ajax
+
+fetch
+
+axios
+
+### GraphQL
+
+
+
+
