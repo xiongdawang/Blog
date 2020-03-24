@@ -39,6 +39,10 @@ axios
 
 ### GraphQL
 
+## Nginx
+
+[Nginx从听说到学会](https://www.jianshu.com/p/630e2e1ca57f)
+
 
 
 
