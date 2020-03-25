@@ -34,9 +34,9 @@ jianli: https://www.jianshu.com/p/a3802f6f4499
 ajax
 
 fetch
-[](https://developer.mozilla.org/zh-CN/docs/Web/API/Fetch_API)
-[](https://github.com/github/fetch)
-[](https://fetch.spec.whatwg.org/)
+[1](https://developer.mozilla.org/zh-CN/docs/Web/API/Fetch_API)
+[2](https://github.com/github/fetch)
+[3](https://fetch.spec.whatwg.org/)
 
 axios
 
