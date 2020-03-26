@@ -17,6 +17,8 @@
 
 [WEB前端知识总结](https://zhuanlan.zhihu.com/p/25334672)
 
+[前端汇总](https://blog.csdn.net/gtLBTNq9mr3/article/details/104911964)
+
 jianli: https://www.jianshu.com/p/a3802f6f4499
 
 ## 路由
