@@ -27,6 +27,8 @@ jianli: https://www.jianshu.com/p/a3802f6f4499
 
 [彻底搞懂路由跳转：location 和 history 接口](https://segmentfault.com/a/1190000014120456)
 
+[理解Web路由](https://zhuanlan.zhihu.com/p/24814675)
+
 ## 网络请求
 
 ### REST
@@ -34,8 +36,11 @@ jianli: https://www.jianshu.com/p/a3802f6f4499
 ajax
 
 fetch
+
 [1](https://developer.mozilla.org/zh-CN/docs/Web/API/Fetch_API)
+
 [2](https://github.com/github/fetch)
+
 [3](https://fetch.spec.whatwg.org/)
 
 axios
@@ -47,5 +52,8 @@ axios
 [Nginx从听说到学会](https://www.jianshu.com/p/630e2e1ca57f)
 
 
+# Webpack
+
+[webpack源码理解](https://blog.csdn.net/qiqingjin/category_6769693.html)
 
 
