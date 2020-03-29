@@ -25,6 +25,8 @@
 
 [React组件设计实践总结02 - 组件的组织](https://juejin.im/post/5cd8fb916fb9a03218556fc1)
 
+[一个合格(优秀)的前端都应该阅读这些文章](https://juejin.im/post/5d387f696fb9a07eeb13ea60)
+
 jianli: https://www.jianshu.com/p/a3802f6f4499
 
 [dev.to](https://dev.to/)
