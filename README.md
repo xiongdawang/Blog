@@ -21,6 +21,10 @@
 
 [前端系列 JavaScript是如何工作](https://github.com/qq449245884/xiaozhi)
 
+[if 我是前端Leader，谈谈前端框架体系建设](https://juejin.im/post/5decf88f51882512327a510a)
+
+[React组件设计实践总结02 - 组件的组织](https://juejin.im/post/5cd8fb916fb9a03218556fc1)
+
 jianli: https://www.jianshu.com/p/a3802f6f4499
 
 [dev.to](https://dev.to/)
