@@ -21,7 +21,7 @@
 
 [前端系列](https://github.com/qq449245884/xiaozhi)
 
-[JavaScript是如何工作](https://segmentfault.com/a/1190000018140746)
+[JavaScript是如何工作](https://segmentfault.com/a/1190000018862368)
 
 [if 我是前端Leader，谈谈前端框架体系建设](https://juejin.im/post/5decf88f51882512327a510a)
 
