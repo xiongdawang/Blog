@@ -33,6 +33,14 @@ jianli: https://www.jianshu.com/p/a3802f6f4499
 
 [dev.to](https://dev.to/)
 
+[Web开发者必备：Web应用检查清单](https://segmentfault.com/a/1190000000393463)
+
+[Angular 4.x 修仙之路](https://segmentfault.com/a/1190000008754631)
+
+[五种前端开发必备的调试技术](https://segmentfault.com/a/1190000000340291)
+
+[2019React开发者必备的技能清单](https://segmentfault.com/a/1190000018000947)
+
 ## 路由
 
 [理解浏览器历史记录（2）-hashchange、pushState](https://www.cnblogs.com/lyzg/archive/2016/10/21/5960609.html)
