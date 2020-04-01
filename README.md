@@ -41,6 +41,8 @@ jianli: https://www.jianshu.com/p/a3802f6f4499
 
 [2019React开发者必备的技能清单](https://segmentfault.com/a/1190000018000947)
 
+[你不知道的Javascript第二版](https://github.com/getify/You-Dont-Know-JS)
+
 ## 路由
 
 [理解浏览器历史记录（2）-hashchange、pushState](https://www.cnblogs.com/lyzg/archive/2016/10/21/5960609.html)
