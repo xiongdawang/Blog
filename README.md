@@ -43,6 +43,8 @@ jianli: https://www.jianshu.com/p/a3802f6f4499
 
 [你不知道的Javascript第二版](https://github.com/getify/You-Dont-Know-JS)
 
+[【汇总】59篇原创系列汇总](https://blog.csdn.net/qq_36380426/article/details/97724695)
+
 ## 路由
 
 [理解浏览器历史记录（2）-hashchange、pushState](https://www.cnblogs.com/lyzg/archive/2016/10/21/5960609.html)
