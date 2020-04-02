@@ -101,6 +101,10 @@ axios
 
 [一步步带你搞一个微前端框架--基于single-spa](https://blog.csdn.net/zdhui_fly/article/details/105136009)
 
+[「微前端」- 将微服务理念扩展到前端开发（实践篇）](https://www.jianshu.com/p/1f409df7de45)
+
+[前端微服务化解决方案1 - 思考](https://alili.tech/archive/ea599f7c/)
+
 ## 电子书资源
 
 [有哪些值得推荐的找电子书的网站？](https://www.zhihu.com/question/29356761)
