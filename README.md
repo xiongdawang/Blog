@@ -95,6 +95,10 @@ axios
 
 [web 开发中无处不在的状态机](https://zhuanlan.zhihu.com/p/26524390)
 
+## 微前端
+
+[微前端框架简易实现](https://github.com/YataoZhang/my-single-spa)
+
 ## 电子书资源
 
 [有哪些值得推荐的找电子书的网站？](https://www.zhihu.com/question/29356761)
