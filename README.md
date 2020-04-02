@@ -99,6 +99,8 @@ axios
 
 [微前端框架简易实现](https://github.com/YataoZhang/my-single-spa)
 
+[一步步带你搞一个微前端框架--基于single-spa](https://blog.csdn.net/zdhui_fly/article/details/105136009)
+
 ## 电子书资源
 
 [有哪些值得推荐的找电子书的网站？](https://www.zhihu.com/question/29356761)
