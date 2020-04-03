@@ -49,6 +49,8 @@ jianli: https://www.jianshu.com/p/a3802f6f4499
 
 [使用 script 的 module 属性实现 es6 以上的兼容](https://www.cnblogs.com/Grewer/p/9518146.html)
 
+[Webpack 构建策略 module 和 nomodule](https://www.javascriptcn.com/read-35775.html)
+
 ## 路由
 
 [理解浏览器历史记录（2）-hashchange、pushState](https://www.cnblogs.com/lyzg/archive/2016/10/21/5960609.html)
