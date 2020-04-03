@@ -45,6 +45,10 @@ jianli: https://www.jianshu.com/p/a3802f6f4499
 
 [【汇总】59篇原创系列汇总](https://blog.csdn.net/qq_36380426/article/details/97724695)
 
+[如何在生产环境中部署ES2015+](https://jdc.jd.com/archives/4911)
+
+[使用 script 的 module 属性实现 es6 以上的兼容](https://www.cnblogs.com/Grewer/p/9518146.html)
+
 ## 路由
 
 [理解浏览器历史记录（2）-hashchange、pushState](https://www.cnblogs.com/lyzg/archive/2016/10/21/5960609.html)
