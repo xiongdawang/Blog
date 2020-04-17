@@ -109,6 +109,10 @@ axios
 
 [web 开发中无处不在的状态机](https://zhuanlan.zhihu.com/p/26524390)
 
+## 算法
+
+[手把手撕LeetCode题目，扒各种算法套路的裤子](https://github.com/labuladong/fucking-algorithm)
+
 ## 微前端
 
 [微前端框架简易实现](https://github.com/YataoZhang/my-single-spa)
