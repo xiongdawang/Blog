@@ -127,3 +127,7 @@ axios
 
 [有哪些值得推荐的找电子书的网站？](https://www.zhihu.com/question/29356761)
 
+## Angular
+
+[Angular刷新当前页面的几种方法](https://blog.51cto.com/7308310/2335107)
+
