@@ -39,3 +39,7 @@ function getScrollbarWidth() {
     return scrollbarWidth;
 }
 ```
+
+## 资料
+
+[Element.getBoundingClientRect()](https://developer.mozilla.org/zh-CN/docs/Web/API/Element/getBoundingClientRect)
