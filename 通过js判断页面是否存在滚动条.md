@@ -24,7 +24,7 @@ function hasScrollbar(el) {
 
 ## 获取滚动条宽度
 
-显示模态框，给元素添加占位样式时（如：mrgin-left），需要获取滚动条的宽度。获取方法很简单，新加一个div元素，再添加样式让其显示滚动条，通过元素的getBoundingClientRect()、clientWidth计算出滚动条宽度。
+显示模态框，给元素添加占位样式时（如：mrgin-right），需要获取滚动条的宽度。获取方法很简单，新加一个div元素，再添加样式让其显示滚动条，通过元素的getBoundingClientRect()、clientWidth计算出滚动条宽度。
 
 ```js
 /**
