@@ -95,6 +95,8 @@ axios
 
 [Nginx从听说到学会](https://www.jianshu.com/p/630e2e1ca57f)
 
+[Nginx 反向代理、负载均衡、页面缓存、URL重写及读写分离详解](https://blog.51cto.com/freeloda/1288553?source=drt)
+
 
 # Webpack
 
