@@ -55,6 +55,8 @@ jianli: https://www.jianshu.com/p/a3802f6f4499
 
 [blog](https://github.com/staven630/blog)
 
+[关注基础知识，打造优质前端博客，公众号[前端工匠]的作者](https://github.com/ljianshu/Blog)
+
 ## 总结
 
 [前端](https://www.cnblogs.com/chenwenhao/category/1416194.html)
