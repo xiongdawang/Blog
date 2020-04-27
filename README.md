@@ -13,6 +13,8 @@
 
 [[技术翻译]9个可以让你在2020年成为前端专家的项目](https://juejin.im/post/5db71290f265da4d1c6999a0#heading-7)
 
+    [https://github.com/hamedbaatour/Minimus](https://github.com/hamedbaatour/Minimus)
+
 [从浏览器多进程到JS单线程，JS运行机制最全面的一次梳理](https://www.jianshu.com/p/65d3aed95306)
 
 [WEB前端知识总结](https://zhuanlan.zhihu.com/p/25334672)
