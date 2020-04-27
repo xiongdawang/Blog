@@ -57,6 +57,12 @@ jianli: https://www.jianshu.com/p/a3802f6f4499
 
 [前端](https://www.cnblogs.com/chenwenhao/category/1416194.html)
 
+## Rx.js
+
+[RxJS v6 学习指南](https://www.cnblogs.com/ang-/p/9514430.html#top)
+
+[学习 RxJS](https://rxjs-cn.github.io/learn-rxjs-operators/)
+
 ## 路由
 
 [理解浏览器历史记录（2）-hashchange、pushState](https://www.cnblogs.com/lyzg/archive/2016/10/21/5960609.html)
