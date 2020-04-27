@@ -31,6 +31,8 @@
 
 jianli: https://www.jianshu.com/p/a3802f6f4499
 
+[我是如何从零基础到淘系前端offer - 阶段性总结](https://juejin.im/post/5ea39c93f265da47e84e8c8a)
+
 [dev.to](https://dev.to/)
 
 [Web开发者必备：Web应用检查清单](https://segmentfault.com/a/1190000000393463)
@@ -122,6 +124,10 @@ axios
 ## 算法
 
 [手把手撕LeetCode题目，扒各种算法套路的裤子](https://github.com/labuladong/fucking-algorithm)
+
+## 设计模式
+
+[前端渣渣唠嗑一下前端中的设计模式（真实场景例子）](https://juejin.im/post/5e0eaff4e51d45413b7b77f3#heading-22)
 
 ## 微前端
 
