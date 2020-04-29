@@ -65,6 +65,8 @@ jianli: https://www.jianshu.com/p/a3802f6f4499
 
 [前端](https://www.cnblogs.com/chenwenhao/category/1416194.html)
 
+[2万字 | 前端基础拾遗90问](https://juejin.im/post/5e8b261ae51d4546c0382ab4)
+
 ## Rx.js
 
 [RxJS v6 学习指南](https://www.cnblogs.com/ang-/p/9514430.html#top)
