@@ -61,6 +61,8 @@ jianli: https://www.jianshu.com/p/a3802f6f4499
 
 [阿宽的博客](https://github.com/PDKSophia/blog.io)
 
+[关于pwa](https://www.zhihu.com/people/wang-xiao-zhen-54-15/posts)
+
 ## 总结
 
 [前端](https://www.cnblogs.com/chenwenhao/category/1416194.html)
