@@ -61,6 +61,8 @@ jianli: https://www.jianshu.com/p/a3802f6f4499
 
 [阿宽的博客](https://github.com/PDKSophia/blog.io)
 
+[Async/Await 如何通过同步的方式实现异步](https://juejin.im/post/5d2c814c6fb9a07ecd3d8e43)
+
 [关于pwa](https://www.zhihu.com/people/wang-xiao-zhen-54-15/posts)
 
 ## ms
