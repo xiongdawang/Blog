@@ -141,6 +141,8 @@ axios
 
 [手把手撕LeetCode题目，扒各种算法套路的裤子](https://github.com/labuladong/fucking-algorithm)
 
+[https://www.cnblogs.com/dpnlp/tag/%E5%89%91%E6%8C%87offer/](https://www.cnblogs.com/dpnlp/tag/%E5%89%91%E6%8C%87offer/)
+
 ## 设计模式
 
 [前端渣渣唠嗑一下前端中的设计模式（真实场景例子）](https://juejin.im/post/5e0eaff4e51d45413b7b77f3#heading-22)
