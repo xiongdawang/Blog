@@ -69,6 +69,8 @@ jianli: https://www.jianshu.com/p/a3802f6f4499
 
 [mianjin](https://juejin.im/post/5e8bfd56f265da48094d8fbf)
 
+[2020最新中级web前端面试题库（含详细答案，15k级别）你会几道呢？](https://www.cnblogs.com/chengxuyuanaa/p/13084188.html)
+
 ## 总结
 
 [前端](https://www.cnblogs.com/chenwenhao/category/1416194.html)
@@ -143,6 +145,9 @@ axios
 
 [https://www.cnblogs.com/dpnlp/tag/%E5%89%91%E6%8C%87offer/](https://www.cnblogs.com/dpnlp/tag/%E5%89%91%E6%8C%87offer/)
 
+[进大厂连载 3/15：如何借助 5 道算法题入职 Leetcode](https://juejin.im/post/5eeab9d051882565c0796312)
+
+
 ## 设计模式
 
 [前端渣渣唠嗑一下前端中的设计模式（真实场景例子）](https://juejin.im/post/5e0eaff4e51d45413b7b77f3#heading-22)
@@ -156,6 +161,8 @@ axios
 [「微前端」- 将微服务理念扩展到前端开发（实践篇）](https://www.jianshu.com/p/1f409df7de45)
 
 [前端微服务化解决方案1 - 思考](https://alili.tech/archive/ea599f7c/)
+
+[探索 webpack5 新特性 Module federation 在腾讯文](http://www.alloyteam.com/2020/04/14338/#prettyPhoto)
 
 ## 电子书资源
 
