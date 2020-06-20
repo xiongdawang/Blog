@@ -71,6 +71,8 @@ jianli: https://www.jianshu.com/p/a3802f6f4499
 
 [2020最新中级web前端面试题库（含详细答案，15k级别）你会几道呢？](https://www.cnblogs.com/chengxuyuanaa/p/13084188.html)
 
+[三年前端寒冬入大厂，收获蚂蚁P6+、字节2-1 offer 面经分享](https://juejin.im/post/5ecb8d77518825433b132ae6)
+
 ## 总结
 
 [前端](https://www.cnblogs.com/chenwenhao/category/1416194.html)
