@@ -166,6 +166,12 @@ axios
 
 [探索 webpack5 新特性 Module federation 在腾讯文](http://www.alloyteam.com/2020/04/14338/#prettyPhoto)
 
+[qiankun 微前端方案实践及总结](https://juejin.im/post/5ed73b73e51d4578724e3fa4)
+
+[微服务:从Single-SPA到类Single-SPA初探](https://ijust.cc/front-end-basic/single-spa.html)
+
+[Single-Spa + Vue Cli 微前端落地指南 (项目隔离远程加载，自动引入)](https://www.lizenghai.com/archives/40308.html#i-15)
+
 ## 电子书资源
 
 [有哪些值得推荐的找电子书的网站？](https://www.zhihu.com/question/29356761)
