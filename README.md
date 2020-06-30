@@ -79,6 +79,8 @@ jianli: https://www.jianshu.com/p/a3802f6f4499
 
 [一位前端 P7 大佬的面试经验分享](https://blog.csdn.net/zz_jesse/article/details/106581076)
 
+[前端架构师的视野](https://blog.csdn.net/zz_jesse/article/details/106953542)
+
 ## 总结
 
 [前端](https://www.cnblogs.com/chenwenhao/category/1416194.html)
