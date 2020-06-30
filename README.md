@@ -65,6 +65,10 @@ jianli: https://www.jianshu.com/p/a3802f6f4499
 
 [关于pwa](https://www.zhihu.com/people/wang-xiao-zhen-54-15/posts)
 
+## ECMASCRIPT
+
+[ES2020 新特性](https://juejin.im/post/5e09ca40518825499a5abff7)
+
 ## ms
 
 [mianjin](https://juejin.im/post/5e8bfd56f265da48094d8fbf)
