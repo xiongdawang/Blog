@@ -77,6 +77,8 @@ jianli: https://www.jianshu.com/p/a3802f6f4499
 
 [三年前端寒冬入大厂，收获蚂蚁P6+、字节2-1 offer 面经分享](https://juejin.im/post/5ecb8d77518825433b132ae6)
 
+[一位前端 P7 大佬的面试经验分享](https://blog.csdn.net/zz_jesse/article/details/106581076)
+
 ## 总结
 
 [前端](https://www.cnblogs.com/chenwenhao/category/1416194.html)
