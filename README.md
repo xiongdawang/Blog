@@ -87,6 +87,14 @@ jianli: https://www.jianshu.com/p/a3802f6f4499
 
 [2万字 | 前端基础拾遗90问](https://juejin.im/post/5e8b261ae51d4546c0382ab4)
 
+## 性能优化
+
+[前端性能优化，从入门到进阶（基础篇）](https://zhuanlan.zhihu.com/p/78053275)
+
+[前端性能优化，从入门到进阶（进阶篇）](https://zhuanlan.zhihu.com/p/78198962)
+
+[前端性能优化 24 条建议(2020)](https://zhuanlan.zhihu.com/p/121056616)
+
 ## Rx.js
 
 [RxJS v6 学习指南](https://www.cnblogs.com/ang-/p/9514430.html#top)
