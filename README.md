@@ -81,6 +81,8 @@ jianli: https://www.jianshu.com/p/a3802f6f4499
 
 [前端架构师的视野](https://blog.csdn.net/zz_jesse/article/details/106953542)
 
+[2020 大前端冲刺大厂面试题必备（上）](http://www.wazhi.com.cn/SchoolManage/NewsDispatcher?NewsId=5a590eaa-29c6-44f4-bbc2-abb425a36be4&SchoolId=1168&action=singlenews)
+
 ## 总结
 
 [前端](https://www.cnblogs.com/chenwenhao/category/1416194.html)
@@ -96,6 +98,10 @@ jianli: https://www.jianshu.com/p/a3802f6f4499
 [前端性能优化 24 条建议(2020)](https://zhuanlan.zhihu.com/p/121056616)
 
 [前端性能优化常用总结](https://juejin.im/post/59e1bbc9f265da430f311fb1)
+
+[前端性能优化](https://www.dazhuanlan.com/2019/10/07/5d9ae3b3ac991/)
+
+[前端极致性能优化手册大全](https://blog.csdn.net/guduyibeizi/article/details/104030345)
 
 ## Rx.js
 
