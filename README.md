@@ -103,6 +103,8 @@ jianli: https://www.jianshu.com/p/a3802f6f4499
 
 [前端极致性能优化手册大全](https://blog.csdn.net/guduyibeizi/article/details/104030345)
 
+[超全面的前端监控sdk](https://www.javascriptcn.com/read-75989.html)
+
 ## Rx.js
 
 [RxJS v6 学习指南](https://www.cnblogs.com/ang-/p/9514430.html#top)
