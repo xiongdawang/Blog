@@ -105,6 +105,8 @@ jianli: https://www.jianshu.com/p/a3802f6f4499
 
 [超全面的前端监控sdk](https://www.javascriptcn.com/read-75989.html)
 
+[如何优雅处理前端异常？](https://www.cnblogs.com/EternalZH/p/10402538.html)
+
 ## Rx.js
 
 [RxJS v6 学习指南](https://www.cnblogs.com/ang-/p/9514430.html#top)
