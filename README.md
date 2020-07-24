@@ -125,6 +125,10 @@ jianli: https://www.jianshu.com/p/a3802f6f4499
 
 [理解Web路由](https://zhuanlan.zhihu.com/p/24814675)
 
+## 代码规范
+
+[JavaScript主流代码规范大对比](https://juejin.im/post/5dad6d6a6fb9a04e247ca0a1)
+
 ## 网络请求
 
 ### REST
