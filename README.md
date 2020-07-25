@@ -129,6 +129,8 @@ jianli: https://www.jianshu.com/p/a3802f6f4499
 
 [JavaScript主流代码规范大对比](https://juejin.im/post/5dad6d6a6fb9a04e247ca0a1)
 
+[【从零打造前端团队生态系统】统一代码规范](https://juejin.im/post/5ede00006fb9a0479f00cf8c)
+
 ## 网络请求
 
 ### REST
