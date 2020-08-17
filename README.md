@@ -83,6 +83,10 @@ jianli: https://www.jianshu.com/p/a3802f6f4499
 
 [2020 大前端冲刺大厂面试题必备（上）](http://www.wazhi.com.cn/SchoolManage/NewsDispatcher?NewsId=5a590eaa-29c6-44f4-bbc2-abb425a36be4&SchoolId=1168&action=singlenews)
 
+https://www.jianshu.com/p/65f94024247a
+
+https://www.jianshu.com/p/8ff057e226f9
+
 ## 总结
 
 [前端](https://www.cnblogs.com/chenwenhao/category/1416194.html)
