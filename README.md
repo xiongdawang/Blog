@@ -89,6 +89,8 @@ https://www.jianshu.com/p/8ff057e226f9
 
 ## 总结
 
+[前端全栈的一点认识概括](https://www.jianshu.com/p/d3c96dd4d8b0)
+
 [前端](https://www.cnblogs.com/chenwenhao/category/1416194.html)
 
 [2万字 | 前端基础拾遗90问](https://juejin.im/post/5e8b261ae51d4546c0382ab4)
