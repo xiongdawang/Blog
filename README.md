@@ -97,6 +97,12 @@ https://www.jianshu.com/p/8ff057e226f9
 
 [2万字 | 前端基础拾遗90问](https://juejin.im/post/5e8b261ae51d4546c0382ab4)
 
+## Webpack
+
+[webpack系列](https://github.com/darrell0904/webpack-doc)
+
+[手写webpack核心原理，再也不怕面试官问我webpack原理](https://zhuanlan.zhihu.com/p/163665789)
+
 ## 性能优化
 
 [前端性能优化，从入门到进阶（基础篇）](https://zhuanlan.zhihu.com/p/78053275)
