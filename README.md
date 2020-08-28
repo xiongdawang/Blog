@@ -89,6 +89,8 @@ https://www.jianshu.com/p/8ff057e226f9
 
 ## 总结
 
+[前端工程化指南](https://www.kancloud.cn/csnikey/fepro-guide/334544)
+
 [2020年前端面试复习必读精选文章【赠复习导图】](https://segmentfault.com/a/1190000022282401?utm_source=sf-related)
 
 [前端全栈的一点认识概括](https://www.jianshu.com/p/d3c96dd4d8b0)
