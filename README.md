@@ -105,6 +105,8 @@ https://www.jianshu.com/p/8ff057e226f9
 
 [手写webpack核心原理，再也不怕面试官问我webpack原理](https://zhuanlan.zhihu.com/p/163665789)
 
+[图解Webpack——基础篇](https://juejin.im/post/6844904160115064839)
+
 ## 性能优化
 
 [前端性能优化，从入门到进阶（基础篇）](https://zhuanlan.zhihu.com/p/78053275)
@@ -221,6 +223,8 @@ axios
 [微服务:从Single-SPA到类Single-SPA初探](https://ijust.cc/front-end-basic/single-spa.html)
 
 [Single-Spa + Vue Cli 微前端落地指南 (项目隔离远程加载，自动引入)](https://www.lizenghai.com/archives/40308.html#i-15)
+
+[万字长文+图文并茂+全面解析微前端框架 qiankun 源码 - qiankun 篇](https://juejin.im/post/6844904115999342600)
 
 ## 电子书资源
 
