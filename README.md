@@ -256,6 +256,12 @@ axios
 
 [http://datav-react.jiaminghi.com/](http://datav-react.jiaminghi.com/)
 
+## 依赖注入
+
+[什么是控制反转和依赖注入？](https://blog.csdn.net/qq_17555933/article/details/92441957)
+
+[浅谈控制反转与依赖注入](https://zhuanlan.zhihu.com/p/33492169)
+
 ## 学车
 
 [科目三](https://zhuanlan.zhihu.com/c_1178684203474071552)
