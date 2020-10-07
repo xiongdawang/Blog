@@ -99,6 +99,10 @@ https://www.jianshu.com/p/8ff057e226f9
 
 [2万字 | 前端基础拾遗90问](https://juejin.im/post/5e8b261ae51d4546c0382ab4)
 
+[从输入URL到页面加载的过程？如何由一道题完善自己的前端知识体系！](https://segmentfault.com/a/1190000013662126)
+
+[「查缺补漏」巩固你的HTTP知识体系](https://juejin.im/post/6857287743966281736)
+
 ## Webpack
 
 [webpack系列](https://github.com/darrell0904/webpack-doc)
