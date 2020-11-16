@@ -242,6 +242,22 @@ axios
 
 [从零开始手撸webGL3D引擎](https://blog.csdn.net/n5/category_9647112.html)
 
+## 浏览器原理
+
+[浏览器工作原理与实践](https://blog.poetries.top/browser-working-principle/)
+
+[图解浏览器的基本工作原理](https://zhuanlan.zhihu.com/p/47407398)
+
+[万字详文：深入理解浏览器原理](https://zhuanlan.zhihu.com/p/96986818)
+
+[浏览器的工作原理：新式网络浏览器幕后揭秘](https://www.html5rocks.com/zh/tutorials/internals/howbrowserswork/#Introduction)
+
+[实践这一次，彻底搞懂浏览器缓存机制](https://segmentfault.com/a/1190000017962411)
+
+[Inside look at modern web browser (part 1)](https://developers.google.cn/web/updates/2018/09/inside-browser-part1)
+
+[浏览器渲染（进程视角）](https://cloud.tencent.com/developer/article/1629189)
+
 ## blog参考
 
 [https://offering.solutions/](https://offering.solutions/)
